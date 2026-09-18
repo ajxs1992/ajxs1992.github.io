@@ -1,0 +1,8 @@
+<html>
+<body bgcolor="#111">
+<center>
+<font color="#5eead4" size="5">Welcome</font><br>
+<font color="#ddd">Edit this file: addons/amxmodx/configs/welcome_motd.txt</font>
+</center>
+</body>
+</html>
